@@ -1,0 +1,106 @@
+html{
+	overflow-x: hidden;
+}
+button{
+	width: 35vh;
+	height: 8vh;
+	background-color: #14B2D9;
+}
+
+#gris{ /*Primera sección color gris*/
+	
+	background-image: url(../img/code.jpg);
+	background-attachment: fixed ;
+	color: white;
+	}
+
+.fondo{
+	background-color:#010101;
+}
+#verde{ /*Segunda seccion*/
+	background-color: #4ED182;
+	color:white;
+}
+
+.jumbotron{
+	background-color:transparent;
+	margin-bottom:0px 
+}
+
+.star{
+	width: 9%;
+	
+	
+}
+
+h1{
+	clear: both;
+	margin-bottom: 1em;
+} 
+
+p.uno{
+	padding-top:3em;
+	margin-bottom: 4em;
+}
+p.dos{
+	margin-bottom: 3em;
+}
+
+h2{
+	font-size: 3.5em;
+	margin-bottom: 1em;
+}
+
+
+
+#formbtn{ /*Botón del formulario*/
+	 width: 25vh;
+	height: 5vh;
+}
+
+h3{
+	margin-bottom: 3em;
+}
+
+h4{
+	font-weight: bold;
+}
+
+.logo{
+	height: 15vh;
+	width: 15vh
+	border: solid;
+	margin-bottom: 3em;
+	
+}
+
+.puntos{
+	border-bottom: dashed;
+	border-top: dashed;
+	border-color: black;
+	padding: 2em;
+}
+
+.azul{
+	color: #1ED0A8;
+}
+
+h5{
+	font-size: 3em;
+}
+
+h2{
+	font-size: 3em;
+}
+
+ .img{
+ width: 80%;
+ border-radius: 100%;
+ border:solid;
+}
+
+footer{
+	background-color: #4ED182;
+		
+	margin-bottom: 0px;
+}
